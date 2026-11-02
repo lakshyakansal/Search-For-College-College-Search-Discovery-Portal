@@ -530,7 +530,7 @@ It provides a practical foundation for building larger education-focused platfor
   <br/>
   Full-Stack Development | Software Engineering
   <br/><br/>
-  <a href="https://github.com/">
+  <a href="https://github.com/lakshyakansal">
     GitHub
   </a>
 </p>
